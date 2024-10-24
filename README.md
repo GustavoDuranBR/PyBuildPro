@@ -1,6 +1,6 @@
 # PyBuildPro
 
-![PyBuildPro Logo](image.png)
+![PyBuildPro Logo](image2.png)
 
 ## Descrição
 
